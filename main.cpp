@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Just a simple hello world program
+// Just a simple hello world program!
 
 int main()
 {
